@@ -1,6 +1,6 @@
 
 
-Sou um desenvolvedor e estudante apaixonado por dados, infraestrutura e automação. Atuo em múltiplas camadas tecnológicas, construindo desde soluções web e IoT até ambientes conteinerizados. Atualmente, meu foco principal é a extração e análise exploratória de dados e desenvolvimento de aplicações pessoais. Em paralelo, administro e testo ativamente servidores, computação em nuvem e redes, aplicando práticas de segurança para proteger a infraestrutura.
+Sou um desenvolvedor e estudante que gosta trabalhar e experimentar com dados, infraestrutura e automação. Atuo em múltiplas camadas tecnológicas, construindo desde soluções web e IoT até ambientes conteinerizados. Atualmente, meu foco principal é a extração e análise exploratória de dados e desenvolvimento de aplicações pessoais. Em paralelo, administro e testo ativamente servidores, computação em nuvem e redes, aplicando práticas de segurança para proteger a infraestrutura.
 
 ## Sobre mim
 
