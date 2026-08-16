@@ -50,6 +50,7 @@ gosto de mexer com o que me dá na telha
 
 * **Projeto Lumi:** Ecossistema IoT para gestão de produtividade. Integra um temporizador físico (ESP32) a uma API Java (Spring Boot) e um dashboard web (React).
 * **Home-Lab:** Laboratório pessoal para hospedagem de aplicações, servidores dedicados, automação de rotinas em Shell Script e monitoramento focado em segurança de rede.
+- **WebScraping Ifood:** Raspagem de dados avançada através de engenharia reversa e análise de redes na plataforma Ifood. Filtragem e processamento de dados utilizado integração com LLMs
 
 ## Contato
 
